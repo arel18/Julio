@@ -29,6 +29,8 @@
 ## Banco de Dados 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968364.png" loading="lazy" alt="servidor sql " title="servidor sql " width="80" height="80">
 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## Ferramentas 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
